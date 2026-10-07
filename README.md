@@ -33,7 +33,9 @@ src/
 ## Cómo ejecutarlo
 
 ```bash
+
 npm install
+cd us-laboratory
 npm run dev
 ```
 
@@ -41,4 +43,4 @@ Luego abre http://localhost:5173
 
 ## Autor
 
-Alan Ramírez - Universidad de San Buenaventura
+Kevin David Beltrán Valverde - Universidad de San Buenaventura
